@@ -15,12 +15,7 @@ import {useCollectionData} from 'react-firebase-hooks/firestore';
 
 // Initialize Firebase
 firebase.initializeApp({
-  apiKey: "AIzaSyAezJq2YJAeBdjviTyucAg-WIjrH5k4Rms",
-  authDomain: "todolist-883c4.firebaseapp.com",
-  projectId: "todolist-883c4",
-  storageBucket: "todolist-883c4.appspot.com",
-  messagingSenderId: "426999076247",
-  appId: "1:426999076247:web:15741f959fbe503db360d2"
+  //put your own api bitch
 });
 
 const auth = firebase.auth();
